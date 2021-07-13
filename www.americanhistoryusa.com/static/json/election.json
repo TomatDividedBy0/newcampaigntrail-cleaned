@@ -4,6 +4,7 @@
     "pk": 20,
     "fields": {
       "year": 2016,
+      "credits": "Dan Bryan",
       "summary": "<p>Donald Trump and Hillary Clinton face off in the 2016 election. While he is well-known among the American public, Trump has never served in elected office. Clinton has served as First Lady, Senator, and Secretary of State. Clinton was the presumptive nominee from start to finish, while Trump has shocked the political world.</p><p>How will their campaign play out? Can Trump pull off an upset? Can Clinton continue the legacy of Obama?</p>",
       "image_url": "../static/images/2016-election-photo-v2.jpg",
       "winning_electoral_vote_number": 270,
@@ -18,6 +19,7 @@
     "pk": 16,
     "fields": {
       "year": 2016,
+      "credits": "Dan Bryan",
       "summary": "<p>Hillary Clinton and Donald Trump face off in the 2016 election. Clinton has served as First Lady, Senator, and Secretary of State. Trump has never served in elected office. Clinton was the presumptive nominee from start to finish, while Trump has shocked the political world.</p><p>How will their campaign play out? Can Clinton continue the legacy of Obama? Can Trump pull off an upset?</p><p>(<em>NOTE: scenario created in March 2016, may not reflect subsequent events.</em>)</p>",
       "image_url": "../static/images/2016-election-photo.jpg",
       "winning_electoral_vote_number": 270,
@@ -32,6 +34,7 @@
     "pk": 3,
     "fields": {
       "year": 2012,
+      "credits": "Dan Bryan",
       "summary": "<p>Barack Obama attempts to win reelection while Mitt Romney hopes to bring a more conservative vision to the White House. The poor economy and Obama's signature health care initiatives loom large in the 2012 election.</p> <ul><li>Obama will attempt to make the case that his stewardship prevented economic disaster after the 2008 financial crisis.</li><li>Romney will try to frame his business and executive experience as a contrast to the background and results of Obama.</li></ul>",
       "image_url": "../static/images/2012-election-photo.jpg",
       "winning_electoral_vote_number": 270,
@@ -46,6 +49,7 @@
     "pk": 9,
     "fields": {
       "year": 2000,
+      "credits": "Dan Bryan",
       "summary": "<p>George W. Bush attempts to chart a new direction for the U.S., while Al Gore tries to win election as the sitting Vice President. Ralph Nader is a leftist third-party candidate. The economy has been booming, until quite recently, but President Clinton has been through an embarrassing scandal.</p><p>Candidates will debate what to do with a $200 billion budget surplus, among other things. In the real world, Florida was decided by 537 votes after 36 days and a Supreme Court decision.</p>",
       "image_url": "../static/images/2000-election-photo.jpg",
       "winning_electoral_vote_number": 270,
@@ -74,6 +78,7 @@
     "pk": 10,
     "fields": {
       "year": 1976,
+      "credits": "Dan Bryan",
       "summary": "<p>President Gerald Ford attempts to win election to office after replacing Richard Nixon in 1974, and narrowly defeating Ronald Reagan for the Republican nomination. Jimmy Carter is a new face on the national scene, having served as Governor of Georgia. He will make the case that the nation needs new blood after the scandals of the Nixon era. Both candidates are seen as moderate by the standards of their party. The battleground states are in the West, the Midwest, and the Northeast.</p>",
       "image_url": "../static/images/1976-election-photo.jpg",
       "winning_electoral_vote_number": 270,
@@ -88,6 +93,7 @@
     "pk": 4,
     "fields": {
       "year": 1968,
+      "credits": "Dan Bryan",
       "summary": "<p>The 1968 election enters its final stretch in chaos. Riots are a frequent occurrence as the Vietnam War divides the nation, and Johnson's \"Great Society\" is under full attack.</p> <ul><li>Nixon attempts to present himself as a law-and-order candidate who will bear the standard of Republicanism.</li><li>Humphrey tries to hold the line for liberalism in a year of social chaos and racial agitation.</li> <li>Wallace hopes to bring an end to Civil Rights and desegregation.</ul>",
       "image_url": "../static/images/1968-election-photo.jpg",
       "winning_electoral_vote_number": 270,
@@ -102,6 +108,7 @@
     "pk": 69,
     "fields": {
       "year": 1964,
+      "credits": "/u/rekkotekko and /u/Atom_H3art_Mother",
       "summary": "America in 1964 stands unsettled, memories of the beloved late John F. Kennedy still prominent in the nation's memory. As the nation recovers from the shock of November 1963, the 1964 campaign is just beginning, with questions swirling around America’s course in Vietnam, Social Security, and Civil Rights, among others.<li>Lyndon B. Johnson aims to maintain his large lead in the polls, defending his policies while keeping both integrationist and segregationist voters of the Democratic Party on board.</li><li>Barry Goldwater hopes to make up ground quickly, reuniting his party behind his conservative vision after a contentious primary, as well as flipping the South for the first time since Reconstruction.</li>",
       "image_url": "https://i.imgur.com/zHVrIgV.png",
       "winning_electoral_vote_number": 270,
@@ -117,6 +124,7 @@
     "pk": 11,
     "fields": {
       "year": 1960,
+      "credits": "Dan Bryan",
       "summary": "<p>After eight years of Dwight Eisenhower, two youthful candidates compete to be his successor. Kennedy is a Senator with a moderate record, a telegenic face, and high-minded rhetoric. Nixon is the sitting Vice President with a strong Cold War record, moderate economic views, and potential likeability problems. Nixon begins the campaign as the slight favorite, but every region of the country could be competitive. Key issues are the Cold War, civil rights, and health care.</p>",
       "image_url": "../static/images/1960-election-photo.jpg",
       "winning_electoral_vote_number": 269,
@@ -131,6 +139,7 @@
     "pk": 12,
     "fields": {
       "year": 1948,
+      "credits": "Dan Bryan",
       "summary": "<p>The 1948 election begins with President Truman trailing badly in the polls. Thomas Dewey, loser in 1944, is widely expected to redeem himself this time around. Truman not only has to deal with Dewey, a moderate Republican, but also with two splinter candidates. Henry Wallace is a far-left candidate with the Progressive Party, while Strom Thurmond runs as a Dixiecrat. Some hot issues are the Soviet Union, civil rights, the \"Do-Nothing\" Congress, and the Taft-Hartley Act.</p>",
       "image_url": "../static/images/1948-election-photo.jpg",
       "winning_electoral_vote_number": 266,
@@ -145,6 +154,7 @@
     "pk": 14,
     "fields": {
       "year": 1916,
+      "credits": "Dan Bryan",
       "summary": "<p>War rages in Europe, while Woodrow Wilson has used his first term to push a number of progressive laws, such as the income tax and Federal Reserve. Charles Evans Hughes has resigned from the Supreme Court to unite his party and deny a second term.</p><ul><li>Wilson will emphasize the U.S. non-involvement with World War I, and his legislative achievements.</li><li>Hughes must balance the Old Guard and Progressive wings of his own party -- or cast one overboard entirely.</li></ul>",
       "image_url": "../static/images/1916-election-photo.jpg",
       "winning_electoral_vote_number": 266,
@@ -159,6 +169,7 @@
     "pk": 5,
     "fields": {
       "year": 1896,
+      "credits": "Dan Bryan",
       "summary": "<p>William McKinley runs as the establishment Republican while William Jennings Bryan brings a radically different agenda to the race. The bad economy and the coinage of silver dominate discussion.</p><ul><li>McKinley will make the case for traditional Republican policies, including a strong defense of the gold standard.</li><li>Bryan will state that there can be no relief for debtors or the larger economy without inflation, which he hopes to bring about via \"free silver\".</li></ul>",
       "image_url": "../static/images/1896-election-photo.jpg",
       "winning_electoral_vote_number": 224,
@@ -173,6 +184,7 @@
     "pk": 8,
     "fields": {
       "year": 1860,
+      "credits": "Dan Bryan",
       "summary": "<p>Abraham Lincoln runs as the Republican against his rival Stephen A. Douglas. Slavery is the dominant issue and has caused two splinter candidates to step forward -- Breckinridge and Bell -- both with Southern roots.</p><ul><li>Lincoln begins with the lead, and must simply hold his Northern coalition together to take the victory.</li><li>The other three candidates must find some way to prevent a Lincoln victory. In that case, the House of Representatives will choose.</li>\r</ul>",
       "image_url": "../static/images/1860-election-photo.jpg",
       "winning_electoral_vote_number": 152,
@@ -187,6 +199,7 @@
     "pk": 12,
     "fields": {
       "year": 1948,
+      "credits": "Dan Bryan",
       "summary": "<p>The 1948 election begins with President Truman trailing badly in the polls. Thomas Dewey, loser in 1944, is widely expected to redeem himself this time around. Truman not only has to deal with Dewey, a moderate Republican, but also with two splinter candidates. Henry Wallace is a far-left candidate with the Progressive Party, while Strom Thurmond runs as a Dixiecrat. Some hot issues are the Soviet Union, civil rights, the \"Do-Nothing\" Congress, and the Taft-Hartley Act.</p>",
       "image_url": "../static/images/1948-election-photo.jpg",
       "winning_electoral_vote_number": 266,
@@ -201,6 +214,7 @@
     "pk": 14,
     "fields": {
       "year": 1916,
+      "credits": "Dan Bryan",
       "summary": "<p>War rages in Europe, while Woodrow Wilson has used his first term to push a number of progressive laws, such as the income tax and Federal Reserve. Charles Evans Hughes has resigned from the Supreme Court to unite his party and deny a second term.</p><ul><li>Wilson will emphasize the U.S. non-involvement with World War I, and his legislative achievements.</li><li>Hughes must balance the Old Guard and Progressive wings of his own party -- or cast one overboard entirely.</li></ul>",
       "image_url": "../static/images/1916-election-photo.jpg",
       "winning_electoral_vote_number": 266,
@@ -215,6 +229,7 @@
     "pk": 5,
     "fields": {
       "year": 1896,
+      "credits": "Dan Bryan",
       "summary": "<p>William McKinley runs as the establishment Republican while William Jennings Bryan brings a radically different agenda to the race. The bad economy and the coinage of silver dominate discussion.</p><ul><li>McKinley will make the case for traditional Republican policies, including a strong defense of the gold standard.</li><li>Bryan will state that there can be no relief for debtors or the larger economy without inflation, which he hopes to bring about via \"free silver\".</li></ul>",
       "image_url": "../static/images/1896-election-photo.jpg",
       "winning_electoral_vote_number": 224,
@@ -229,6 +244,7 @@
     "pk": 8,
     "fields": {
       "year": 1860,
+      "credits": "Dan Bryan",
       "summary": "<p>Abraham Lincoln runs as the Republican against his rival Stephen A. Douglas. Slavery is the dominant issue and has caused two splinter candidates to step forward -- Breckinridge and Bell -- both with Southern roots.</p><ul><li>Lincoln begins with the lead, and must simply hold his Northern coalition together to take the victory.</li><li>The other three candidates must find some way to prevent a Lincoln victory. In that case, the House of Representatives will choose.</li>\r</ul>",
       "image_url": "../static/images/1860-election-photo.jpg",
       "winning_electoral_vote_number": 152,
@@ -243,6 +259,7 @@
     "pk": 13,
     "fields": {
       "year": 1844,
+      "credits": "Dan Bryan",
       "summary": "<p>President Tyler has defined the key issue of this election with his proposed annexation of Texas. James K. Polk, the Democrat, gained his nomination by favoring the measure. Henry Clay, the Whig, has more latitude.</p><p>The Liberty Party lurks as an abolitionist third party, and will pressure the Whigs. Conversely, John Tyler hopes to use the Texas issue to energize an independent campaign, if Polk wavers. Other campaign issues are tariffs, internal improvements, and the banking system.</p>",
       "image_url": "../static/images/1844-election-photo.jpg",
       "winning_electoral_vote_number": 138,
