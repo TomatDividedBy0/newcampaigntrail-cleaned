@@ -1057,12 +1057,12 @@
 	                        if (e.election_json[i].pk == election_id.value) {
 	                            t = i;
 	                            break
-	                        } $("#election_description_window").html('<div id="election_image">            <img src="' + e.election_json[t].fields.image_url + '" width="300" height="160"/>            </div>            <div id="election_summary">' + e.election_json[t].fields.summary + '</div>'), $("#inner_window_2").html('<p>This scenario was made by ' + e.election_json[t].fields.credits + '.</p>')
+	                        } $("#election_description_window").html('<div id="election_image">            <img src="' + e.election_json[t].fields.image_url + '" width="300" height="160"/>            </div>            <div id="election_summary">' + e.election_json[t].fields.summary + '</div>'), $("#credits_window").html('<p>This scenario was made by ' + e.election_json[t].fields.credits + '.</p>')
 	                }), $("#election_id_button").click(function(a) {
 	                    a.preventDefault(),
 	                        function(a) {
 	                            for (var n = "", l = 0; l < e.candidate_json.length; l++) e.candidate_json[l].fields.election == a && 1 == e.candidate_json[l].fields.is_active && (n += "<option value=" + e.candidate_json[l].pk + ">" + e.candidate_json[l].fields.first_name + " " + e.candidate_json[l].fields.last_name + "</option>");
-	                            var o = '<div class="game_header">        <h2>NEW CAMPAIGN TRAIL</h2>    </div>    <div class="inner_window_w_desc" id="inner_window_3">        <div id="candidate_form">        <form name="candidate">            <p>            <h3>Please select your candidate:</h3>            <select name="candidate_id" id="candidate_id">' + n + '</select>            </p>        </form>        </div>        <div class="person_description_window" id="candidate_description_window">        </div>        <p>            <button class="person_button" id="candidate_id_button">Continue</button>        </p>    </div>';
+	                            var o = '<div class="game_header">        <h2>NEW CAMPAIGN TRAIL</h2>    </div>    <div class="inner_window_w_desc" id="inner_window_3">        <div id="candidate_form">        <form name="candidate">            <p>            <h3>Please select your candidate:</h3>            <select name="candidate_id" id="candidate_id">' + n + '</select>            </p>        </form>        </div>        <div class="person_description_window" id="candidate_description_window">        </div>        <p>            <button class="person_button" id="candidate_id_button">Continue</button></p>/div> <div id=credits_window></div>';
 	                            $("#game_window").html(o), $("#candidate_id").ready(function() {
 	                                t()
 	                            }), $("#candidate_id").change(function() {
