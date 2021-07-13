@@ -1057,7 +1057,7 @@
 	                        if (e.election_json[i].pk == election_id.value) {
 	                            t = i;
 	                            break
-	                        } $("#election_description_window").html('<div id="election_image">            <img src="' + e.election_json[t].fields.image_url + '" width="300" height="160"/>            </div>            <div id="election_summary">' + e.election_json[t].fields.summary + '</div> <p>This scenario was made by ' + e.election_json[t].fields.credits + '.</p>')
+	                        } $("#election_description_window").html('<div id="election_image">            <img src="' + e.election_json[t].fields.image_url + '" width="300" height="160"/>            </div>            <div id="election_summary">' + e.election_json[t].fields.summary + '</div> <p style="padding-top: 20px;">This scenario was made by ' + e.election_json[t].fields.credits + '.</p>')
 	                }), $("#election_id_button").click(function(a) {
 	                    a.preventDefault(),
 	                        function(a) {
