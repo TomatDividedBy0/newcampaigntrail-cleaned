@@ -64,6 +64,7 @@
     "pk": 15,
     "fields": {
       "year": 1988,
+      "credits": "Dan Bryan",
       "summary": "<p>After eight years of Ronald Reagan, the nation seems headed for a new direction in government.</p><ul><li>George Bush is Reagan's Vice President, but trails his challenger by several points.</li><li>Michael Dukakis, Governor of Massachusetts, is a new figure on the national scene. Can he keep the good feelings going through election day?</li></ul><p>Bush must find some way to shake up the race. He could emphasize the strong economy, or attack Dukakis on a number of fronts.</p>",
       "image_url": "../static/images/1988-election-photo.jpg",
       "winning_electoral_vote_number": 270,
