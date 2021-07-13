@@ -629,6 +629,9 @@ h2.headline_pretty{
     border-style:double;
     border-color:#C9C9C9
 }
+#credits_window{
+	float:bottom;
+}
 #election_image{
     float:left;
     margin:1em
